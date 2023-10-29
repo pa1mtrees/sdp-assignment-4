@@ -1,0 +1,3 @@
+interface ChatRoomFactory {
+    ChatRoom createChatRoom();
+}
